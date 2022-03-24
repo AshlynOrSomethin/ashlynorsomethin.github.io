@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AshlynOrSomethin/ashlynorsomethin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AshlynOrSomethin WSL Image Creation, Windows Custom ISO Creation, Linux Distro Maintaining, Distro Reviews
 
 ### Markdown
 
@@ -12,6 +8,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+WSL Image Creation Guide
+# Header 1
+Windows Debloat ISO Guide
+# Header 1
+Linux Distro Maintaining Perks and Downfalls
+# Header 1
+Linux Distro Reviews
 ## Header 2
 ### Header 3
 
