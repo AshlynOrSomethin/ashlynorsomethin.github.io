@@ -4,9 +4,17 @@
 }
 h1 {
     font-family: comicSans;
-    color: darkorange;
+    color: rgb(255, 8, 0);
 }
 h2 {
     font-family: comicSans;
-    color: darkorange;
+    color: rgb(28, 2, 177);
+}
+h3 {
+    font-family: comicSans;
+    color: rgb(30, 77, 38);
+}
+h4 {
+    font-family: comicSans;
+    color: rgb(255, 140, 0);
 }
