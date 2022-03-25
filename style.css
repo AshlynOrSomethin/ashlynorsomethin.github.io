@@ -1,0 +1,12 @@
+@font-face {
+    font-family: comicSans;
+    src: url(comicsans.ttf);
+}
+h1 {
+    font-family: comicSans;
+    color: darkorange;
+}
+h2 {
+    font-family: comicSans;
+    color: darkorange;
+}
